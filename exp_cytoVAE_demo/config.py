@@ -41,7 +41,7 @@ mkDirIfNew(path_monitoring)
 from dataManagers import dataManager_ABSTRACT as dManager
 
 #-- Model
-from models import VAEPlus as model
+from models import CP2Image as model
 
 
 #-- Experiment parameters

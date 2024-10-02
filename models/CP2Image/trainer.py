@@ -221,7 +221,6 @@ class Trainer:
 		##----------
 		## ANNOUNCEMENT!
 		self._step += 1
-# 		print(">> MODEL UPDATE (VAEPlus) {}".format(self._step))
 		
 		##----------
 		## TRAINING!
